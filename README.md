@@ -31,4 +31,4 @@ tags: BLE、低耗蓝牙、Android
 <img src="https://github.com/pearl2015/SmartDevicesManager/blob/master/pic/user_record.gif?raw=ture" width="40%" height="50%">
 
 ## 代码下载
-https://github.com/pearl2015/SmartDevicesManager.git
+https://github.com/pearl2015/BLEManager.git
